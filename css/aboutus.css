@@ -1,0 +1,251 @@
+
+.title-aboutus{
+    height: 750px;
+    background-image: url(../Image/aboutus/hero-image/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background: black; */
+    
+}
+#bootstrap-overrides .navbar-dark .navbar-nav .nav-link {
+    color: black
+}
+.hero-text{
+    position: relative;
+    left: 656px;
+    top: 106px;
+    transition: none 0s ease 0s;
+    cursor: move;
+    color: white;
+    display: inline-block;
+    font-family: Sacramento;
+   
+}
+.hero-text h1{
+    font-size: 140px;
+    position: relative;
+    right: 95px;
+}
+
+/* TITLE SECTION ENDS HERE  */
+
+/* ABOUT US SECTION STARTS HERE  */
+
+#about-us{
+    /* background: antiquewhite; */
+    height: 605px;
+}
+.about-us-image{
+    /* background: blueviolet; */
+    height: 600px;
+}
+.about-us-image img{
+    width: 553px;
+    height: 536px;
+    position: relative;
+    left: 151px;
+    top: 26px;
+    transition: none 0s ease 0s;
+    cursor: move;
+}
+
+.heading{
+    position: relative;
+    width: 83px;
+    height: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    /* background: black; */
+    left: 821px;
+    top: -529px;
+
+}
+
+.sub-heading{
+    position: relative;
+    width: 428px;
+    height: 118px;
+    left: 821px;
+    bottom: 519px;
+   
+}
+
+.sub-heading h1{
+    font-family: Sacramento;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 59px;
+    color: #000000;
+}
+
+#about-us-content-id{
+   
+    position: relative;
+    width: 463px;
+    height: 38px;
+    left: 821px;
+    bottom: 507px;
+
+}
+
+.about-us-content1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.about-us-content2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+#about-us-content-id-1{
+    display: inline-block;
+    position: relative;
+    left: 821px;
+    bottom: 507px;
+}
+#about-us-content-id-2{
+    display: inline-block;
+    position: relative;
+    left: 821px;
+    bottom: 507px;
+}
+.about-us-content3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+#about-us-content-id-3{
+    display: inline-block;
+    position: relative;
+    left: 821px;
+    bottom: 507px;
+}
+.about-us-content4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+
+/* ABOUT US TEAM STARTS HERE  */
+
+#about-us-team{
+    /* background: aquamarine; */
+    height: 605px;
+}
+
+.about-us-team-image img{
+    width: 500px;
+    /* text-align: left; */
+    position: relative;
+    left: 900px;
+    top: 17px;
+}
+
+.heading-team{
+    position: relative;
+    left: 122px;
+    top: -407px;
+    width: 218px;
+    height: 59px;
+    color: black;
+}
+
+.heading-team h1{
+    font-family: Sacramento;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 59px;
+    line-height: 59px;
+}
+
+#team-content{
+    position: relative;
+    width: 496px;
+    height: 76px;
+    bottom: 375px;
+    left: 123px;
+}
+
+.team-content-1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+
+#team-content-1{
+    position: relative;
+    width: 496px;
+    height: 76px;
+    bottom: 543px;
+    left: 123px;
+    display: inline-block;
+}
+
+.team-content-2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+
+#team-content-2{
+    position: relative;
+    width: 477px;
+    height: 76px;
+    bottom: 484px;
+    right: 378px;
+    display: inline-block;
+}
+
+.team-content-3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+
+#team-content-3{
+    position: relative;
+    bottom: 262px;
+    right: 859px;
+    display: inline-block;
+}
+
+.team-content-4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
