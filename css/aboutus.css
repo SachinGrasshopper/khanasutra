@@ -1,15 +1,15 @@
 
 .title-aboutus{
     height: 750px;
-    background-image: url(../Image/aboutus/hero-image/1.jpg);
+    /* background-image: url(../Image/aboutus/hero-image/1.jpg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    /* background: black; */
+    background: black;
     
 }
 #bootstrap-overrides .navbar-dark .navbar-nav .nav-link {
-    color: black
+    color: white;
 }
 .hero-text{
     position: relative;
@@ -26,6 +26,7 @@
     font-size: 140px;
     position: relative;
     right: 95px;
+    color: #FDDC03;
 }
 
 /* TITLE SECTION ENDS HERE  */
@@ -33,11 +34,11 @@
 /* ABOUT US SECTION STARTS HERE  */
 
 #about-us{
-    /* background: antiquewhite; */
+    background: black;
     height: 605px;
 }
 .about-us-image{
-    /* background: blueviolet; */
+    background: black;
     height: 600px;
 }
 .about-us-image img{
@@ -59,7 +60,7 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 23px;
-    color: #000000;
+    color: white;
     /* background: black; */
     left: 821px;
     top: -529px;
@@ -81,7 +82,7 @@
     font-weight: bold;
     font-size: 50px;
     line-height: 59px;
-    color: #000000;
+    color: white;
 }
 
 #about-us-content-id{
@@ -100,7 +101,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    color: #000000;
+    color: white;
 }
 
 .about-us-content2{
@@ -109,7 +110,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    color: #000000;
+    color: white;
 }
 #about-us-content-id-1{
     display: inline-block;
@@ -129,7 +130,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    color: #000000;
+    color: white;
 }
 
 #about-us-content-id-3{
@@ -137,6 +138,8 @@
     position: relative;
     left: 821px;
     bottom: 507px;
+    text-align: justify;
+  text-justify: auto;
 }
 .about-us-content4{
     font-family: 'Roboto';
@@ -144,14 +147,14 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 19px;
-    color: #000000;
+    color: white;
 }
 
 
 /* ABOUT US TEAM STARTS HERE  */
 
 #about-us-team{
-    /* background: aquamarine; */
+    background: black;
     height: 605px;
 }
 
@@ -169,7 +172,7 @@
     top: -407px;
     width: 218px;
     height: 59px;
-    color: black;
+    color: white;
 }
 
 .heading-team h1{
@@ -195,7 +198,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 21px;
-    color: #000000;
+    color: white;
 }
 
 #team-content-1{
@@ -213,7 +216,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 21px;
-    color: #000000;
+    color: white;
 }
 
 #team-content-2{
@@ -231,7 +234,8 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 21px;
-    color: #000000;
+    color: white;
+    text-align: justify;
 }
 
 #team-content-3{
@@ -239,6 +243,8 @@
     bottom: 262px;
     right: 859px;
     display: inline-block;
+    text-align: justify;
+  text-justify: auto;
 }
 
 .team-content-4{
@@ -247,5 +253,187 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 21px;
-    color: #000000;
+    color: white;
 }
+
+
+#testimonials{
+    background-color: black;
+}
+
+#customer-testimonial {
+    padding: 40px 0;
+  }
+  
+  .testimonial img {
+    max-width: 159px;
+    margin: 0 auto 0 auto;
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 13px;
+    border-radius: 100px;
+  }
+  
+  .testimonial blockquote {
+    border: 0;
+    font-size: italic;
+    color: white;
+    padding: 5px 150px;
+    position: relative;
+  }
+  
+  .testimonial blockquote::before,
+  .testimonial blockquote::after {
+    font-size: 80px;
+    font-size: normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+  
+  .testimonial blockquote::before {
+    content: "\201C";
+    top: 0;
+    left: 100px;
+  }
+  
+  .testimonial blockquote::after {
+    content: "\201D";
+    bottom: 0;
+    right: 100px;
+  }
+  
+  .testimonial-author p {
+    color: white;
+    font-size: 17px;
+  }
+  
+  .testimonial-authoe p strong {
+    display: block;
+  }
+  
+  .test-heading {
+    color: white;
+    transform: uppercas;
+    margin-top: 43px;
+  }
+  
+
+  footer {
+    background: black;
+    /* background: -webkit-linear-gradient(59deg, #3A6073, #16222A); */
+    /* background: linear-gradient(59deg, #3A6073, #16222A); */
+    color: white;
+    margin-top:100px;
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 14px;
+    transition-duration: 0.2s;
+  }
+  
+  footer a:hover {
+    color: #FA944B;
+    text-decoration: none;
+  }
+  
+  .copy {
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+  }
+  
+  .footer-middle {
+    padding-top: 2em;
+    color: white;
+  }
+  
+  
+  /*SOCİAL İCONS*/
+  
+  /* footer social icons */
+  
+  ul.social-network {
+    list-style: none;
+    display: inline;
+    margin-left: 0 !important;
+    padding: 0;
+  }
+  
+  ul.social-network li {
+    display: inline;
+    margin: 0 5px;
+  }
+  
+  
+  /* footer social icons */
+  
+  .social-network a.icoFacebook:hover {
+    background-color: #3B5998;
+  }
+  
+  .social-network a.icoLinkedin:hover {
+    background-color: #007bb7;
+  }
+  
+  .social-network a.icoFacebook:hover i,
+  .social-network a.icoLinkedin:hover i {
+    color: #fff;
+  }
+  
+  .social-network a.socialIcon:hover,
+  .socialHoverClass {
+    color: #44BCDD;
+  }
+  
+  .social-circle li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+  }
+  
+  .social-circle li i {
+    margin: 0;
+    line-height: 30px;
+    text-align: center;
+  }
+  
+  .social-circle li a:hover i,
+  .triggeredHover {
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms--transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  
+  .social-circle i {
+    color: #595959;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    transition: all 0.8s;
+  }
+  
+  .social-network a {
+    background-color: #F9F9F9;
+  }
+  
+
+  .grasshopper{
+      width: 30px;
+  }
