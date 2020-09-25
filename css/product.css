@@ -1,3 +1,7 @@
+#bootstrap-overrides{
+  background: black;
+}
+
 .title-product{
     height: 750px;
     /* background-image: url(../Image/product/1.png); */
@@ -7,6 +11,10 @@
     background-color: black;
     /* background: black; */
     
+}
+
+.products{
+  background-color: black;
 }
 #bootstrap-overrides .navbar-dark .navbar-nav .nav-link {
     color: white
@@ -31,20 +39,21 @@
 h1.page-title {
     margin-top: 70px;
     margin-bottom: 70px;
-    color: #485a64;
+    color: #FFFFFF;
     font-weight: bold;
     font-family: Sacramento;
+    font-size: 60px;
   }
   
   .product-container {
-    background-color: #fff;
+    background-color: rgb(0, 0, 0);
     height: 400px;
     overflow: hidden;
     position: relative;
     margin-bottom: 20px;
   }
   
-  .tag-sale {
+  /* .tag-sale {
     background-color: #4fdaa4;
     width: 86px;
     height: 98px;
@@ -63,11 +72,11 @@ h1.page-title {
     display: block;
     transform-origin: top center;
     transform: rotate(222.5deg) translateX(-28px) translateY(-37px);
-  }
+  } */
   
   .product-description {
-    background-color: #F7F7F7;
-    border-top: 1px solid #EFEFEF;
+    background-color: #000000;
+    border-top: 1px solid #000000;
     padding: 10px 20px;
     color: #797979;
   }
@@ -78,6 +87,7 @@ h1.page-title {
     position: relative;
     overflow: hidden;
     transition: 1s;
+    background-color: black;
   }
   
   .product-link {
