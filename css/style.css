@@ -30,6 +30,7 @@
   animation: fadeInUp;
   animation-duration: 2s;
 }
+
 .tagline {
   z-index: 23;
   min-width: 524px;
@@ -60,6 +61,7 @@
   animation: slideInDown;
   animation-duration: 2s;
 }
+
 .image1 {
   position: relative;
   left: 240px;
@@ -71,8 +73,8 @@
   line-height: 24px;
   text-align: left;
   width: 30%;
-  animation: fadeInDown; 
-  animation-duration: 2s; 
+  animation: fadeInDown;
+  animation-duration: 2s;
 }
 
 .image2 {
@@ -184,8 +186,8 @@
 
 #benefits {
   height: 690px;
-    background-color: darkslategrey;
-    color: white;
+  background-color: darkslategrey;
+  color: white;
 }
 
 .benefits {
@@ -203,38 +205,39 @@
   animation-duration: 5s;
   animation-delay: calc(var(--scroll) * -1s); */
 }
-.benefits-content{
+
+/* .benefits-content{
   position: relative;
     left: -1px;
     top: -102px;
     transition: none 0s ease 0s;
     cursor: move;
-    /* height: 0px; */
+    height: 0px;
     text-align: left;
-}
+} */
 
 .benefits-content1 {
   position: relative;
   left: -496px;
-    top: -167px;
+  top: -167px;
   will-change: top, left;
   display: inline-block;
 }
 
 .benefits-content2 {
   position: relative;
-    left: 83px;
-    top: -473px;
-    will-change: top, left;
-    display: inline-block;
+  left: 83px;
+  top: -473px;
+  will-change: top, left;
+  display: inline-block;
 }
 
 .benefits-content3 {
   position: relative;
-    right: 545px;
-    top: -373px;
-    will-change: top, left;
-    display: inline-block;
+  right: 545px;
+  top: -373px;
+  will-change: top, left;
+  display: inline-block;
 }
 
 .benefits-content4 {
@@ -352,7 +355,7 @@ footer {
   background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
   background: linear-gradient(59deg, #3A6073, #16222A);
   color: white;
-  margin-top:100px;
+  margin-top: 100px;
 }
 
 footer a {

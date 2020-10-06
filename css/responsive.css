@@ -1,0 +1,743 @@
+/* @media (max-width: 2560px) {
+  .caption-section {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 618px;
+    top: 209px;
+  }
+
+  .caption {
+    position: relative;
+    left: 178px;
+  }
+
+  .caption h1 {
+    top: -36px;
+  }
+
+  .tagline {
+    top: -39px;
+    left: 211px;
+  }
+
+  .image1 {
+    left: 240px;
+    top: -624px;
+  }
+
+  .image2 {
+    left: -992px;
+    top: -297px;
+  }
+
+  .image3 {
+    left: 1280px;
+    top: -997px;
+  }
+
+
+
+  .benefits {
+    width: 24%;
+    left: 1541px;
+    top: -52px;
+  }
+
+  .benefits-content1 {
+    left: -496px;
+    top: -180px;
+  }
+
+  .benefits-content2 {
+    left: -1120px;
+    top: -57px;
+  }
+
+  .benefits-content3 {
+    right: 1746px;
+    top: 65px;
+  }
+
+  .benefits-content4 {
+    right: -117px;
+    bottom: 238px;
+  }
+
+
+
+  .hero-text {
+    left: 1146px;
+    top: 218px;
+  }
+
+  .about-us-image {
+    position: relative;
+    left: 222px;
+    display: inline-block;
+  }
+
+  .about-us-image img {
+    width: 641px;
+    height: auto;
+  }
+
+  .heading {
+    left: 1500px;
+  }
+
+  .sub-heading {
+    left: 1500px;
+    bottom: 519px;
+    display: inline-block;
+  }
+
+  #about-us-content-id {
+    left: 1072px;
+    bottom: 442px;
+    display: inline-block;
+    text-align: justify;
+  }
+
+  #about-us-content-id-1 {
+    left: 1504px;
+    bottom: 449px;
+    text-align: justify;
+  }
+
+  #about-us-content-id-2 {
+    left: 1505px;
+    bottom: 454px;
+    text-align: justify;
+  }
+
+  #about-us-content-id-3 {
+    left: 1506px;
+    bottom: 453px;
+    text-align: justify;
+  }
+
+  .about-us-team-image {
+    display: inline-block;
+    position: relative;
+    left: 1500px;
+    top: 100px;
+  }
+
+  .heading-team {
+    display: inline;
+    left: 429px;
+  }
+
+  #team-content {
+    display: inline-block;
+    position: relative;
+    left: 429px;
+  }
+
+  #team-content-1 {
+    left: 429px;
+    bottom: 527px;
+    text-align: justify;
+  }
+
+  #team-content-3 {
+    right: 557px;
+    bottom: 233px;
+  }
+
+  #team-content-2 {
+    right: 75px;
+    bottom: 465px;
+    text-align: justify;
+  }
+
+
+
+  .hero-text-product {
+
+    left: 1146px;
+    top: 218px;
+  }
+
+
+}
+
+
+
+
+@media (max-width: 1920px) {
+
+
+
+  .caption {
+    left: -130px;
+  }
+
+  .tagline {
+    top: -57px;
+    left: -91px;
+  }
+
+  .image1 {
+    left: 240px;
+    top: -528px;
+  }
+
+  .image2 {
+    left: -731px;
+    top: -115px;
+  }
+
+  .image3 {
+    left: 957px;
+    top: -659px;
+  }
+
+  .benefits-content1 {
+    left: -379px;
+    top: -136px;
+    font-size: small;
+  }
+
+  .benefits-content2 {
+    left: -885px;
+    top: -15px;
+    font-size: small;
+  }
+
+  .benefits-content3 {
+    right: 1395px;
+    top: 91px;
+    font-size: small;
+  }
+
+  .benefits-content4 {
+    right: -86px;
+    bottom: 126px;
+    text-align: justify;
+  }
+
+  .benefits {
+    left: 1265px;
+    top: -42px;
+  }
+
+
+
+  .hero-text {
+    left: 883px;
+  }
+
+  .about-us-image img {
+    width: 453px;
+    height: auto;
+    top: -14px;
+  }
+
+  .heading {
+    left: 1180px;
+  }
+
+  .sub-heading {
+    left: 1180px;
+  }
+
+  #about-us-content-id {
+    left: 755px;
+  }
+
+  #about-us-content-id-1 {
+    left: 1187px;
+  }
+
+  #about-us-content-id-2 {
+    left: 1187px;
+    bottom: 449px;
+  }
+
+  #about-us-content-id-3 {
+    left: 1188px;
+    bottom: 448px;
+  }
+
+  .about-us-team-image {
+    left: 1191px;
+  }
+
+
+
+  .hero-text-product h1 {
+    right: 340px;
+  }
+
+} */
+
+@media (min-width: 576px) {
+  .caption h1 {
+    font-size: 50px;
+    top: 91px;
+  }
+
+  .tagline {
+    font-size: 10px;
+    top: 33px;
+  }
+
+  .hero-buttons {
+    top: 79px;
+  }
+
+  .image1 {
+    display: none;
+  }
+
+  .image2 {
+    display: none;
+  }
+
+  .image3 {
+    display: none;
+  }
+
+  .history {
+    height: 877px;
+  }
+
+  .content1 {
+    left: 110px;
+    top: 15px;
+    text-align: center;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .content2 {
+    left: 131px;
+    top: 14px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .content3 {
+    left: 111px;
+    top: 10px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .content4 {
+    left: 80px;
+    top: 7px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .benefits {
+    width: 43%;
+    top: -21px;
+    left: 195px;
+  }
+
+  .benefits-content1 {
+    left: 110px;
+    top: 4px;
+    font-size: 9px;
+    text-align: center;
+  }
+
+  .benefits-content2 {
+    left: 106px;
+    top: 21px;
+    font-size: 9px;
+    text-align: center;
+  }
+
+  .benefits-content3 {
+    right: -153px;
+    top: 36px;
+    text-align: center;
+    font-size: 9px;
+  }
+
+  .benefits-content4 {
+    right: -94px;
+    bottom: -51px;
+    font-size: 9px;
+    text-align: center;
+  }
+
+  /* Index section ends here  */
+
+  /* About us section starts here  */
+
+  .hero-text {
+    left: 298px;
+    top: 146px;
+    font-size: 50px;
+  }
+  .hero-text h1 {
+    font-size: 50px;
+    position: relative;
+    right: 95px;
+    color: #ffffff;
+  }
+
+  .about-us-image img {
+    width: 265px;
+    height: auto;
+    left: 158px;
+    top: -233px;
+  }
+
+  .heading {
+    left: 85px;
+  }
+
+  .sub-heading {
+    left: 69px;
+    text-align: center;
+  }
+
+  .about-us-contact1 {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  #about-us-content-id {
+    left: 70px;
+  }
+
+  #about-us-content-id-1 {
+    left: 61px;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  #about-us-content-id-2 {
+    left: 70px;
+    text-align: center;
+  }
+
+  #about-us-content-id-3 {
+    left: 91px;
+  }
+
+  .about-us-team-image img {
+    width: 265px;
+    height: auto;
+    position: relative;
+    left: 153px;
+    top: 59px;
+  }
+
+  .heading-team {
+    left: 175px;
+    top: 80px;
+    text-align: center;
+  }
+
+  #team-content {
+    bottom: -84px;
+    left: 53px;
+    text-align: center;
+  }
+
+  #team-content-1 {
+    bottom: -91px;
+    left: 49px;
+    text-align: center;
+  }
+
+  #team-content-2 {
+    bottom: -67px;
+    right: -57px;
+    text-align: center;
+  }
+
+  #team-content-3 {
+    bottom: -52px;
+    right: -60px;
+    text-align: center;
+  }
+
+  #about-us-team {
+    background: black;
+    height: 857px;
+  }
+
+  /* About Section Ends Here  */
+
+  /* Product Section Starts Here  */
+
+  .hero-text-product {
+    left: 310px;
+    top: 150px;
+  }
+
+  .hero-text-product h1 {
+    font-size: 50px;
+    position: relative;
+    right: 95px;
+  }
+}
+
+@media (min-width: 768px) {
+  .content1 {
+    left: -33px;
+    top: -290px;
+    width: 39%;
+  }
+
+  .content2 {
+    left: 177px;
+    top: -306px;
+    width: 39%;
+  }
+
+  .content3 {
+    left: -42px;
+    top: -263px;
+    width: 42%;
+  }
+
+  .content4 {
+    left: 155px;
+    top: -272px;
+    width: 39%;
+  }
+  .history {
+    height: 536px;
+  }
+
+  .benefits {
+    top: -31px;
+    left: 413px;
+  }
+
+  .benefits-content1 {
+    left: -314px;
+    top: -84px;
+    font-size: 10px;
+  }
+  .benefits-content2 {
+    left: 28px;
+    top: -244px;
+    font-size: 10px;
+  }
+  .benefits-content3 {
+    right: 296px;
+    top: -150px;
+    font-size: 10px;
+  }
+  .benefits-content4 {
+    right: -47px;
+    bottom: 121px;
+    font-size: 10px;
+  }
+  #benefits {
+    height: 495px;
+  }
+
+  /* Index ends  here  */
+
+  /* About us Starts here  */
+
+  .hero-text h1 {
+    font-size: 80px;
+    right: 45px;
+  }
+
+  .about-us-image img {
+    width: 310px;
+    left: 234px;
+    top: -233px;
+  }
+
+  .sub-heading {
+    left: 91px;
+    display: inline-block;
+    top: -479px;
+  }
+  .heading {
+    left: 191px;
+    display: inline-block;
+    top: -591px;
+  }
+
+  #about-us-content-id {
+    left: 160px;
+    display: inline-block;
+    top: -431px;
+    text-align: center;
+  }
+  #about-us-content-id-1 {
+    left: 155px;
+    top: -408px;
+  }
+
+  #about-us-content-id-2 {
+    left: 161px;
+    top: -402px;
+  }
+
+  .about-us-team-image img {
+    width: 310px;
+    left: 234px;
+  }
+  .heading-team {
+    left: 279px;
+  }
+
+  #team-content {
+    left: 128px;
+    display: inline-block;
+  }
+
+  #team-content-1 {
+    left: 130px;
+  }
+  #team-content-2 {
+    right: -139px;
+  }
+  .team-content-3 {
+    text-align: center;
+  }
+  #team-content-3 {
+    right: -140px;
+  }
+
+  /* About us Ends here  */
+
+  /* Product starts here  */
+
+  .hero-text-product h1 {
+    font-size: 80px;
+    right: 50px;
+  }
+
+  /* Product Ends Here  */
+
+  /* Footer starts here  */
+
+  .footer-pad {
+    position: relative;
+    left: -43px;
+  }
+}
+
+@media (min-width: 992px) {
+  .history-image {
+    width: 25%;
+    position: relative;
+    left: -16px;
+    top: -17px;
+  }
+
+  .benefits {
+    top: -39px;
+    left: 524px;
+  }
+
+  .benefits-content1 {
+    left: -393px;
+    top: -121px;
+  }
+
+  .benefits-content2 {
+    top: -328px;
+  }
+
+  .benefits-content3 {
+    right: 306px;
+    top: -236px;
+  }
+
+  .benefits-content4 {
+    right: -40px;
+    bottom: 218px;
+  }
+
+  /* Index Section ends here  */
+
+  /* About us Section starts here  */
+
+  .hero-text h1 {
+    font-size: 118px;
+    right: -3px;
+  }
+  .about-us-image img {
+    width: 380px;
+    left: 314px;
+  }
+
+  .heading {
+    left: 270px;
+    top: -515px;
+  }
+  .sub-heading {
+    left: 170px;
+    top: -408px;
+  }
+
+  #about-us-content-id {
+    left: -268px;
+    top: -339px;
+  }
+
+  #about-us-content-id-1 {
+    left: 246px;
+    top: -345px;
+  }
+
+  #about-us-content-id-2 {
+    left: 257px;
+    top: -352px;
+  }
+
+  #about-us-content-id-3 {
+    left: 281px;
+    top: -349px;
+    text-align: center;
+  }
+
+  .about-us-team-image img {
+    width: 380px;
+    left: 314px;
+  }
+
+  .heading-team {
+    left: 384px;
+  }
+
+  #team-content {
+    left: 235px;
+  }
+
+  #team-content-1 {
+    left: 237px;
+  }
+
+  #team-content-2 {
+    right: 251px;
+    bottom: -147px;
+  }
+
+  #team-content-3 {
+    right: -259px;
+    background-origin: -138px;
+  }
+
+  #about-us-team {
+    height: 1107px;
+  }
+
+  /* About us ends here  */
+
+  /* Products starts here  */
+
+  .hero-text-product h1 {
+    font-size: 118px;
+    right: 4px;
+  }
+}
