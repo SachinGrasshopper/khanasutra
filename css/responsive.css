@@ -376,6 +376,7 @@
     top: 146px;
     font-size: 50px;
   }
+
   .hero-text h1 {
     font-size: 50px;
     position: relative;
@@ -506,6 +507,7 @@
     top: -272px;
     width: 39%;
   }
+
   .history {
     height: 536px;
   }
@@ -520,21 +522,25 @@
     top: -84px;
     font-size: 10px;
   }
+
   .benefits-content2 {
     left: 28px;
     top: -244px;
     font-size: 10px;
   }
+
   .benefits-content3 {
     right: 296px;
     top: -150px;
     font-size: 10px;
   }
+
   .benefits-content4 {
     right: -47px;
     bottom: 121px;
     font-size: 10px;
   }
+
   #benefits {
     height: 495px;
   }
@@ -559,6 +565,7 @@
     display: inline-block;
     top: -479px;
   }
+
   .heading {
     left: 191px;
     display: inline-block;
@@ -571,6 +578,7 @@
     top: -431px;
     text-align: center;
   }
+
   #about-us-content-id-1 {
     left: 155px;
     top: -408px;
@@ -581,10 +589,17 @@
     top: -402px;
   }
 
+  #about-us-content-id-3 {
+    left: 191px;
+    top: -402px;
+    text-align: center;
+  }
+
   .about-us-team-image img {
     width: 310px;
     left: 234px;
   }
+
   .heading-team {
     left: 279px;
   }
@@ -597,12 +612,15 @@
   #team-content-1 {
     left: 130px;
   }
+
   #team-content-2 {
     right: -139px;
   }
+
   .team-content-3 {
     text-align: center;
   }
+
   #team-content-3 {
     right: -140px;
   }
@@ -666,6 +684,7 @@
     font-size: 118px;
     right: -3px;
   }
+
   .about-us-image img {
     width: 380px;
     left: 314px;
@@ -675,6 +694,7 @@
     left: 270px;
     top: -515px;
   }
+
   .sub-heading {
     left: 170px;
     top: -408px;
@@ -739,5 +759,156 @@
   .hero-text-product h1 {
     font-size: 118px;
     right: 4px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .content1 {
+    top: -394px;
+  }
+
+  .content2 {
+    left: 198px;
+    top: -396px;
+  }
+
+  .content3 {
+    left: -52px;
+    top: -309px;
+  }
+
+  .content4 {
+    left: 184px;
+    top: -318px;
+  }
+
+  .benefits {
+    width: 36%;
+    top: -39px;
+    left: 725px;
+  }
+
+  .benefits-content4 {
+    right: 621px;
+    bottom: 134px;
+  }
+
+  /* Index section ends here  */
+
+  /* About us section starts here  */
+
+  .hero-text {
+    left: 394px;
+  }
+
+  .about-us-image img {
+    width: 420px;
+    left: 128px;
+    top: -200px;
+  }
+
+  .content-about {
+    position: relative;
+    /* background: rebeccapurple; */
+    top: -765px;
+    display: inline-block;
+    left: 480px;
+    width: 60%;
+    height: 90%;
+  }
+
+  .heading {
+    left: 216px;
+    top: -56px;
+  }
+
+  .sub-heading {
+    left: 127px;
+    top: 50px;
+    text-align: justify;
+  }
+
+  #about-us-content-id {
+    left: 222px;
+    top: 61px;
+    text-align: justify;
+  }
+
+  #about-us-content-id-1 {
+    left: 223px;
+    top: 70px;
+    text-align: justify;
+  }
+
+  #about-us-content-id-2 {
+    left: 224px;
+    top: 60px;
+    text-align: justify;
+  }
+
+  #about-us-content-id-3 {
+    left: 226px;
+    top: 50px;
+    text-align: justify;
+  }
+
+  .about-us-team-image img {
+    width: 420px;
+    left: 700px;
+    top: -148px;
+  }
+
+  .content-team {
+    position: relative;
+    top: -564px;
+    display: inline-block;
+    width: 60%;
+    /* background: rebeccapurple; */
+    height: 48%;
+  }
+
+  .heading-team {
+    left: 43px;
+    top: 0;
+    display: inline-block;
+  }
+
+  #team-content {
+    left: -162px;
+    text-align: justify;
+    top: 108px;
+  }
+
+  #team-content-1 {
+    left: 59px;
+    top: 103px;
+    text-align: justify;
+  }
+
+  #team-content-2 {
+    right: -57px;
+    bottom: -79px;
+    /* text-align: justify; */
+  }
+
+  .team-content-3 {
+    text-align: justify;
+  }
+
+  #team-content-3 {
+    right: -56px;
+    text-align: justify;
+  }
+
+  #about-us-team {
+    height: 539px;
+  }
+
+  /* About us Section Ends Here  */
+
+  /* Product Section Starts Here  */
+
+  .hero-text-product h1 {
+    right: -106px;
   }
 }
