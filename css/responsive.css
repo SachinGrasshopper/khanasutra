@@ -912,3 +912,102 @@
     right: -106px;
   }
 }
+
+@media (min-width: 1920px) {
+  .caption h1 {
+    font-size: 120px;
+  }
+
+  .tagline {
+    font-size: 18px;
+    top: 58px;
+  }
+
+  .benefits {
+    width: 23%;
+    top: -37px;
+    left: 1264px;
+  }
+
+  .benefits-content1 {
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  .benefits-content2 {
+    top: -31px;
+    left: -861px;
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  .benefits-content3 {
+    right: 1334px;
+    top: 41px;
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  .benefits-content4 {
+    right: -46px;
+    bottom: 192px;
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  /* Index section Ends here  */
+  /* About section starts here  */
+
+  .hero-text h1 {
+    font-size: 120px;
+    right: -350px;
+  }
+
+  .about-us-image img {
+    width: 542px;
+    top: -72px;
+  }
+
+  #about-us-content-id {
+    left: 136px;
+    top: 209px;
+    text-align: justify;
+  }
+
+  .sub-heading {
+    left: 562px;
+    top: -83px;
+    text-align: justify;
+  }
+
+  .heading {
+    left: 651px;
+    top: -193px;
+  }
+
+  .content-about {
+    top: -685px;
+    left: 554px;
+  }
+
+  .about-us-team-image img {
+    width: 542px;
+    left: 1182px;
+  }
+
+  .heading-team {
+    top: -268px;
+  }
+
+  .content-team {
+    top: -607px;
+    left: 119px;
+  }
+
+  /* About section ends here  */
+  /* Product section starts here  */
+  .hero-text-product h1 {
+    right: -460px;
+    font-size: 120px;
+  }
+}
