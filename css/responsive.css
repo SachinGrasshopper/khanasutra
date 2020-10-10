@@ -162,6 +162,74 @@
 /* Product section ends here  */
 }
 
+@media (min-width: 425px){
+  .history{
+    height: 1305px;
+  }
+  .benefits{
+    top: -37px;
+  }
+  #benefits{
+    height: 988px;
+  }
+  .hero-buttons{
+    top: 88px;
+  }
+  .tagline{
+    top: 51px;
+    left: 105px;
+    text-align: center;
+  }
+  .caption{
+    top: 103px;
+  }
+  .caption h1{
+       font-size:50px;
+  }
+   
+  }
+  /* Index section ends here  */
+  /* About us section starts here  */
+  .hero-text{
+    left: 115px;
+    top: 160px;
+  }
+  #about-us-content-id{
+    left: 16px;
+    width: 393px;
+    bottom: 440px;
+    text-align: center;
+  }
+  .sub-heading{
+    left: 57px;
+    text-align: center;
+    bottom: 456px;
+  }
+  .heading{
+    left: 60px;
+    top: -452px;
+  }
+  .about-us-team-image img{
+    top: 40px;
+  }
+  .heading-team{
+    left: 110px;
+    top: 75px;
+    text-align: center;
+  }
+  #team-content{
+    width: 393px;
+    left: 17px;
+    top: 95px;
+    text-align: center;
+  }
+  /* About us section ends here  */
+  /* Product section starts here  */
+  .hero-text-product{
+    left: 120px;
+    top: 198px;
+  }
+}
 
 @media (min-width: 576px) {
   .caption h1 {
